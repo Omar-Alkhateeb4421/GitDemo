@@ -3,6 +3,7 @@ this is a sample repository / app for git course.
 
 ## GUIs
 * this change has made by VSCode.
+* this change has made by visual studio 2022.
 
 ## How To Work With Git.
 1. git checkout main.
